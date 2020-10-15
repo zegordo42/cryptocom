@@ -21,11 +21,11 @@ Filtering trades to leaderboard timeslot...
   (from 2020-10-07T12:30:00.000Z to 2020-10-14T00:00:00.000Z)  
 ... 142242 trades remaining  
 Removing non-API trades...  
-... 142217 trades remaining  
   (25 trades removed)  
+... 142217 trades remaining  
 Removing self trades...  
-... 137813 trades remaining  
   (2202 trades removed)  
+... 137813 trades remaining  
 Computing bot volume from filtered trades...  
 Total USD volume from bot: 2483393  
 
